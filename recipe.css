@@ -1,0 +1,45 @@
+body {
+    font-family: Calibri, sans-serif;
+    background-color: #CAFE88;
+}
+header{
+    border: 1px solid black;
+    margin: 1%;
+    padding: 0 10px;
+    background-color: #89FC63;
+}
+#ingredients{
+    border: 1px solid black;
+    margin: 1%;
+    padding: 10px;
+    background-color: #B4D186;
+    width: 37%;
+    height: 60%;
+    float: left;
+}
+#method{
+    border: 1px solid black;
+    margin: 1%;
+    padding 10px;
+    background-color: #FFFF99;
+    width: 55%;
+    height: 60%;
+    float: right;
+}
+footer{
+    clear:left;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 0 10px;
+    background-color: #AAFD8E;
+}
+.metric{
+    font-style: italic;
+    color: #555555;
+}
+#content{
+    border: 1px solid black;
+    margin: 1%;
+    padding: 10px;
+    background-color: #B4D1B6;
+}
